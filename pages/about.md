@@ -34,12 +34,13 @@ The creators would like to acknowledge assistance and support from:
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+Filey, Mike. Mount Pleasant Cemetery : An Illustrated Guide. 2nd ed. rev. & Expanded. Toronto, Ontario ; Dundurn Press, 1999.
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+Quinton, Jessica M, and Peter N Duinker. “Beyond Burial: Researching and Managing Cemeteries as Urban Green Spaces, with Examples from Canada.” Environmental Reviews 27, no. 2 (2019): 252–62. [https://doi.org/10.1139/er-2018-0060](https://doi.org/10.1139/er-2018-0060).
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+Quinton, Jessica M, Peter N Duinker, Karen A Gallant, James W.N Steenberg, and John D Charles. “To Tree or Not to Tree: User and Management Perspectives of Cemetery Trees.” Urban Forestry & Urban Greening 43 (2019):126385-. [https://doi.org/10.1016/j.ufug.2019.126385](https://doi.org/10.1016/j.ufug.2019.126385)
 
-Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In *“Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda*, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
+Sloane, David Charles. “Memory and Landscape: Nature and the History of the American Cemetery.” SiteLINES: A Journal of Place 6, no. 1 (2010): 3–6. [http://www.jstor.org/stable/24884162](http://www.jstor.org/stable/24884162).
+
 
 
