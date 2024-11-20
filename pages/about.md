@@ -16,22 +16,16 @@ credits: false
 
 This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
 
-## Transcript
 
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
 
-## Links
-The following links and resources were referred to in in the podcast audio:
 
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
-2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
 
 ## Acknowledgments
 
 The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-
+- Mount Pleasant Cemetery Group for allowing us to conduct an interview with their Arborist Daniel Chevalier 
 ## References
 
 Filey, Mike. Mount Pleasant Cemetery : An Illustrated Guide. 2nd ed. rev. & Expanded. Toronto, Ontario ; Dundurn Press, 1999.
