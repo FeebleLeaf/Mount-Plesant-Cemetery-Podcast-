@@ -14,8 +14,8 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
-
+The business of everyday life can be stressful, especially within bustling cities where many people struggle to find peace and solace within these concrete jungles. In the city of Toronto, relaxation among nature can be troublesome at times, as large natural landdscapes can be difficult to find within Toronto. However, an area that many Torontoians fine themseleves drawn to is Mount Pleasant Cemetery, as it not only serves as a green space for the city, but also as a final resting place for the dead. 
+On this episode of the Walking Among the Dead podcast, we will dive into a brief history of Mount Pleasant Cemetery looking at its creation, and role within the community. We will also take a look into the nature within the Cemetery, specifically its functions as an arboretum, as it holds a diverse degree trees, shrubs and plant life. Some of its memorials will be discussed, looking at the nautre within them and how they work together to represent beauty within death. Lastly, we will bring into question the difficulties of Mount Pleasant Cemetery having to balance the cemetery between being a green space and a resting place for the dead
 
 
 
